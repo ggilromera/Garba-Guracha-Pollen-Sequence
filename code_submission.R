@@ -10,8 +10,8 @@ library(grid)
 
 
 #getting the data
-pollen<-read.table("pollen_v8.csv", header=TRUE, sep=",", stringsAsFactors = FALSE)
-dictionary<-read.table("dictionary_v7.csv", header=TRUE, sep=",", stringsAsFactors = FALSE)
+pollen<-read.table("pollen.csv", header=TRUE, sep=",", stringsAsFactors = FALSE)
+dictionary<-read.table("dictionary.csv", header=TRUE, sep=",", stringsAsFactors = FALSE)
 
 
 #defining time, depth and spike objects

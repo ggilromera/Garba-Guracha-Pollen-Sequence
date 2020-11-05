@@ -1,3 +1,16 @@
+# ##########################################################################
+# Code to produce  basic pollen diagrams and numerical analyses
+# 20201105 - CC BY-SA - Graciela Gil-Romera
+#
+# This code defines the steps needed to perform basic numerical analyses for
+# 1) producing basic pollen diagrams in percentages and pollen accumulation 
+# rate for single taxa or groups and,
+# 2) producing Principal Curves for the pollen dataset. 
+# This code is distributed as CC-by-NC 4.0 what implies attribution
+# to the author (Graciela Gil-Romera)
+
+############################################################################
+
 setwd()
 #loading libraries
 library(rioja)
